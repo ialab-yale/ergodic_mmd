@@ -1,6 +1,8 @@
 # Ergodic MMD - Ergodic Exploration in Any Space
 
-Words here
+Ergodic MMD is an approach to generate ergodic trajectories in arbitrary domains only given sampled points from the search space. 
+
+This code provides toy examples (as well as infrastructure) for [this paper](https://arxiv.org/abs/2410.10599).
 
 ## 3D Exploration
 
